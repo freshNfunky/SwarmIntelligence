@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E2D8017F-BBC2-71AD-D4EC-2854EB6E770D}") = "SwarmIntelligence", "Assembly-CSharp-firstpass.csproj", "{9E2E94FA-7116-47E1-5212-29BFAFEDA5B1}"
+EndProject
+Project("{E2D8017F-BBC2-71AD-D4EC-2854EB6E770D}") = "SwarmIntelligence", "Assembly-CSharp.csproj", "{DCCDDEE4-5925-A086-5503-4DAE5A416DFF}"
+EndProject
+Project("{E2D8017F-BBC2-71AD-D4EC-2854EB6E770D}") = "SwarmIntelligence", "Assembly-CSharp-Editor.csproj", "{EC9F5AAC-458F-8C65-B2BB-EA3EE918203E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E2E94FA-7116-47E1-5212-29BFAFEDA5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2E94FA-7116-47E1-5212-29BFAFEDA5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2E94FA-7116-47E1-5212-29BFAFEDA5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2E94FA-7116-47E1-5212-29BFAFEDA5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCDDEE4-5925-A086-5503-4DAE5A416DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCDDEE4-5925-A086-5503-4DAE5A416DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCDDEE4-5925-A086-5503-4DAE5A416DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCDDEE4-5925-A086-5503-4DAE5A416DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9F5AAC-458F-8C65-B2BB-EA3EE918203E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9F5AAC-458F-8C65-B2BB-EA3EE918203E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9F5AAC-458F-8C65-B2BB-EA3EE918203E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9F5AAC-458F-8C65-B2BB-EA3EE918203E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

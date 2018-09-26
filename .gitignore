@@ -1,0 +1,17 @@
+Library/
+Temp/
+obj/
+metadata/
+ShaderCache/
+ShaderCache.db
+**/Standard Assets/Vehicles
+**/Standard Assets/Environment
+**/Standard Assets/2D
+**/Standard Assets/Characters
+**/Standard Assets/Effects
+**/Standard Assets/ParticleSystems
+**/Standard Assets/Prototyping
+**/Standard Assets/Utility
+**/SampleScenes/
+*.
+*.meta
